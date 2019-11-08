@@ -1,5 +1,5 @@
 [package]
-name = "actix-async-compat"
+name = "actix-async-await-compat"
 description = "Async await compat wrapper for Actix"
 version = "0.1.0"
 edition = "2018"
